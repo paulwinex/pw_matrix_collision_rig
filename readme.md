@@ -10,3 +10,8 @@ This script build matrix based collision rig. You can use it for different setup
 - Wheels
 - Pseudo dynamic setup (hair, cloth, tentacle)
 - Any character interaction with objects
+
+### Usage
+
+<pre><code>import matrix_collision_rig
+matrix_collision_rig.show ()</code></pre>
