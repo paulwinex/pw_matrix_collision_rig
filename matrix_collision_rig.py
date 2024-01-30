@@ -471,7 +471,6 @@ class matrixCollisionMaker():
 
         elif orient == 2: #rig control
             R = cmds.xform(control, q=1, ro=1, ws=1)
-            print R
             cmds.xform(mainSetupGrp, ro=R, ws=1)
 
         elif orient == 3: #from camera
