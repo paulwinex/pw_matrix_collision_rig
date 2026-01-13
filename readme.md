@@ -4,6 +4,7 @@
 
 
 ## [Demo video](https://vimeo.com/167230234)
+## [Tutorial](https://vimeo.com/200701667)
 
 This script build matrix based collision rig. You can use it for different setups in your rigs
 
