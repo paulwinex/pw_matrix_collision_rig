@@ -1,6 +1,7 @@
 ### Maya Collision Rig
 
-![alt tag](http://www.paulwinex.ru/wp-content/uploads/2016/05/matrix_collision_rig.jpg)
+![matrix_collision_rig](https://github.com/user-attachments/assets/d333d07f-be29-4fea-b89f-614312f2226a)
+
 
 ## [Demo video](https://vimeo.com/167230234)
 
